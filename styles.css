@@ -30,10 +30,10 @@ header {
     align-items: center;
     justify-content: space-between;
     padding: 3rem 2rem;
-    background-image: radial-gradient(circle, #ff758c, #ff6b6b, #ffcc33);
     border-radius: 10px;
     color: white;
     animation: fadeIn 1s ease-in-out;
+    background-color: rgb(117, 117, 214);
 }
 @keyframes fadeIn {
     0% { opacity: 0; }
